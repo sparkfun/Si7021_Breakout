@@ -19165,10 +19165,6 @@ We've spent an enormous amount of time creating and checking these footprints an
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
 <package name="SI7021">
-<wire x1="1.5" y1="1.5" x2="1.5" y2="-1.5" width="0.127" layer="51"/>
-<wire x1="1.5" y1="-1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
-<wire x1="1.5" y1="1.5" x2="-1.5" y2="1.5" width="0.127" layer="51"/>
 <smd name="NC@3" x="1.5" y="1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
 <smd name="GND" x="1.5" y="0" dx="0.5" dy="0.8" layer="1" rot="R270"/>
 <smd name="DATA" x="1.5" y="-1" dx="0.5" dy="0.8" layer="1" rot="R270"/>
@@ -19209,6 +19205,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </symbols>
 <devicesets>
 <deviceset name="SI7021">
+<description>The Si7021 is an I2C Humidity and Temperature Sensor</description>
 <gates>
 <gate name="G$1" symbol="SI7021" x="0" y="0"/>
 </gates>
@@ -19221,7 +19218,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <connect gate="G$1" pin="VDD" pad="VDD"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="IC-13093" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -19266,7 +19265,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="171.958" y="11.43" size="2.54" layer="94">J. Bartlett</text>
 <text x="165.1" y="114.3" size="1.778" layer="97">Clear both sides of SJ1
 to disable I2C pullup resistors</text>
-<text x="45.72" y="121.92" size="1.778" layer="97">Input Voltage Rage: 1.9V to 3.6V</text>
+<text x="45.72" y="121.92" size="1.778" layer="97">Input Voltage Range: 1.9V to 3.6V</text>
 <text x="109.22" y="68.58" size="1.778" layer="97">7-bit I2C Address is 0x40</text>
 <text x="109.22" y="66.04" size="1.778" layer="97">I2C write is 0x80</text>
 <text x="109.22" y="63.5" size="1.778" layer="97">I2C read is 0x81</text>
