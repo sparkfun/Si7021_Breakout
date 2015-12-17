@@ -163,7 +163,7 @@
 <text x="2.667" y="9.525" size="1.016" layer="21" font="vector" ratio="15" rot="R270">+</text>
 <text x="2.667" y="12.065" size="1.016" layer="21" font="vector" ratio="15" rot="R270">-</text>
 <text x="17.78" y="-8.89" size="1.778" layer="51" font="vector">J. Bartlett</text>
-<text x="9.271" y="0.508" size="1.27" layer="16" ratio="20" rot="MR0">v01</text>
+<text x="9.271" y="0.508" size="1.27" layer="16" ratio="20" rot="MR0">v10</text>
 <text x="7.0104" y="6.9596" size="0.8128" layer="21" font="vector" ratio="15" rot="SR90">PU</text>
 <text x="8.4582" y="2.3622" size="0.8128" layer="21" font="vector" ratio="15" rot="R180">Humidity &amp; 
 Temp Sensor</text>

@@ -18746,7 +18746,7 @@ to disable I2C pullup resistors</text>
 <text x="109.22" y="68.58" size="1.778" layer="97">7-bit I2C Address is 0x40</text>
 <text x="109.22" y="66.04" size="1.778" layer="97">I2C write is 0x80</text>
 <text x="109.22" y="63.5" size="1.778" layer="97">I2C read is 0x81</text>
-<text x="238.76" y="7.62" size="2.54" layer="94">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v10</text>
 <text x="43.18" y="119.38" size="1.778" layer="97">Input Voltage Range (VDD): 1.9V to 3.6V</text>
 <text x="50.8" y="116.84" size="1.778" layer="97">I2C Input Voltage Max: VDD</text>
 </plain>
