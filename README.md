@@ -1,12 +1,11 @@
-SparkFun Humidity and Temperature Sensor Breakout - HTU21D
+SparkFun Humidity and Temperature Sensor Breakout - Si7021
 ===========================================================
 
 
-![SparkFun Humidity and Temperature Sensor Breakout - HTU21D](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/6/4/12064-04.jpg)  
+![SparkFun Humidity and Temperature Sensor Breakout - SI7021](https://cdn.sparkfun.com/assets/parts/1/1/3/0/8/13763-01a.jpg)  
+[*SparkFun Humidity and Temperature Sensor Breakout - Si7021 (SEN-13763)*](https://www.sparkfun.com/products/13763)
 
-[*SparkFun Humidity and Temperature Sensor Breakout - HTU21D (SEN-12064)*](https://www.sparkfun.com/products/12064)
-
-This is a breadboard friendly breakout board for the Measurement Specialties high-precision, low-power digital humidity sensor.
+This is a breadboard friendly breakout board for the Si7021 temperature and humidiy sensor. 
 
 Repository Contents
 -------------------
@@ -17,8 +16,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library)** - Arduino library for the HTU21D.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/htu21d-humidity-sensor-hookup-guide)** - Basic hookup guide for the HTU21D.
+* **[Library](https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library)** - Arduino library for the Si7021.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/htu21d-humidity-sensor-hookup-guide)** - Basic hookup guide for the Si7021.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
