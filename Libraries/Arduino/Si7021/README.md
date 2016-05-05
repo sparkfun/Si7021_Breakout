@@ -1,12 +1,10 @@
-SparkFun Humidity and Temperature Sensor Breakout - HTU21D
-===========================================================
+SparkFun Si7021 Arduino Library
+===============================================================
 
+![SparkFun Humidity and Temperature Sensor Breakout - SI7021](https://cdn.sparkfun.com/assets/parts/1/1/3/0/8/13763-01a.jpg)  
+[*SparkFun Humidity and Temperature Sensor Breakout - Si7021 (SEN-13763)*](https://www.sparkfun.com/products/13763)
 
-![SparkFun Humidity and Temperature Sensor Breakout - HTU21D](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/6/4/12064-04.jpg)  
-
-[*SparkFun Humidity and Temperature Sensor Breakout - HTU21D (SEN-12064)*](https://www.sparkfun.com/products/12064)
-
-This is a breadboard friendly breakout board for the Measurement Specialties high-precision, low-power digital humidity sensor.
+Arduino library gives user basic communication from sensor to microcontroller via I2C protocol. 
 
 Repository Contents
 -------------------
@@ -20,8 +18,13 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://github.com/sparkfun/HTU21D_Breakout)** - Main repository (including hardware files) for the HTU21D breakout board.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/htu21d-humidity-sensor-hookup-guide?_ga=1.239533187.1678495895.1378918345)** - Basic hookup guide for the  HTU21D breakout board.
+* **[Product Repository](https://github.com/sparkfun/Si7021_Breakout)** - Main repository (including hardware files) for the MS5803-14BA sensor.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/si7021-humidity-and-temperature-sensor-hookup-guide)** - Basic hookup guide for the Si7021.
+
+Products that use this Library 
+---------------------------------
+
+* [SEN-13763](https://www.sparkfun.com/products/13763)- Pressure sensor breakout.
 
 
 License Information
@@ -36,3 +39,4 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
+

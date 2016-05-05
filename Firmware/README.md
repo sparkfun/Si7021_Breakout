@@ -1,7 +1,7 @@
-SparkFun HTU21D Firmware
+SparkFun Si7021 Firmware
 ===================================
 
-* **HTU21D_SimpleSketch** - Arduino simple sketch example. See video [here](https://youtu.be/HfNsybUKU6U). 
-* **SparkFun_HTU21D_Example** - Arduino example sketch for getting started. No library required. 
+* **SparkFun_Si7021_Breakout_Example** - Arduino simple sketch example. 
+
 
 
