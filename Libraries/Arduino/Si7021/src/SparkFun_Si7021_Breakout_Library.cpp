@@ -41,7 +41,7 @@
  //Initialize
  Weather::Weather(){}
 
- void Weather::begin(void)
+ bool Weather::begin(void)
 {
   Wire.begin();
 
