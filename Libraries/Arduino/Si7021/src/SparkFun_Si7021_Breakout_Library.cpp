@@ -86,7 +86,7 @@ float Weather::readTemp()
 {
 	// Read temperature from previous RH measurement.
 	uint16_t temp_Code = makeMeasurment(TEMP_PREV);
-	float result = (175.25*temp_Code/65536)-46.85;
+	float result = (175.72*temp_Code/65536)-46.85;
 	return result;
 }
 
@@ -94,7 +94,7 @@ float Weather::getTemp()
 {
 	// Measure temperature
 	uint16_t temp_Code = makeMeasurment(TEMP_MEASURE_NOHOLD);
-	float result = (175.25*temp_Code/65536)-46.85;
+	float result = (175.72*temp_Code/65536)-46.85;
 	return result;
 }
 //Give me temperature in fahrenheit!
