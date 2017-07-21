@@ -1,26 +1,31 @@
 SparkFun HTU21D Libraries
 =================================
 
-Libraries for use in different environments. 
+Libraries for use in different environments.
 
 
 Directory Contents
 -------------------
  Arduino - [Arduino IDE](httpwww.arduino.ccenMainSoftware) libraries
- 
+
 
 License Information
 -------------------
-This product is open source! 
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
+
+This product is _**open source**_!
+
+Please review the LICENSE.md file for license information.
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
+_<COLLABORATION CREDIT>_
+
 Update Library Instructions:
 ----------------------------
-To get the most up-to-date version of the library, you must run the following git subtree commands. 
+To get the most up-to-date version of the library, you must run the following git subtree commands.
 
 $git subtree pull -P Libraries/Arduino --squash https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library.git master
