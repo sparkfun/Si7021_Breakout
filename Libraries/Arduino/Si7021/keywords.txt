@@ -2,30 +2,38 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MS5803 	KEYWORD1
+Weather 	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-getTemperature	KEYWORD2
-getPressure		KEYWORD2
-reset			KEYWORD2
-
+getRH	                KEYWORD2
+readTemp		KEYWORD2
+getTemp			KEYWORD2
+readTempF	        KEYWORD2
+getTempF		KEYWORD2
+heaterOn	        KEYWORD2
+heaterOff 		KEYWORD2
+changeResolution	KEYWORD2
+Reset			KEYWORD2
+checkID			KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
 
 
-FAHRENHEIT	LITERAL1
-CELSIUS		LITERAL1
+ADDRESS	        	LITERAL1
 
-ADDRESS_HIGH	LITERAL1
-ADDRESS_LOW		LITERAL1
+TEMP_MEASURE_HOLD	LITERAL1
+HUMD_MEASURE_HOLD	LITERAL1
+TEMP_MEASURE_NOHOLD	LITERAL1
+HUMD_MEASURE_NOHOLD	LITERAL1
+TEMP_PREV		LITERAL1
 
-ADC_256 	LITERAL1
-ADC_512 	LITERAL1
-ADC_1024	LITERAL1
-ADC_2048	LITERAL1
-ADC_4096	LITERAL1
+WRITE_USER_REG 	LITERAL1
+READ_USER_REG 	LITERAL1
+SOFT_RESET	LITERAL1
+HTRE	        LITERAL1
+CRC_POLY	LITERAL1
     
