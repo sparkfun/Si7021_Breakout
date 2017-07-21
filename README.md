@@ -16,7 +16,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/Si7021_Breakout/tree/master/Libraries/Arduino)** - Arduino library for the Si7021.
+* **[Library](https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library)** - Arduino library for the Si7021.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/si7021-humidity-and-temperature-sensor-hookup-guide)** - Basic hookup guide for the Si7021.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.
