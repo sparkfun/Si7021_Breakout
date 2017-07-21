@@ -5,13 +5,17 @@ The .sch and .brd files hare are Eagle CAD schematic and PCB design files from S
 A freeware version of Eagle can be found [here](http://www.cadsoftusa.com/download-eagle/freeware/). 
 
 
-License
----------
-This product is open source! 
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+License Information
+-------------------
 
-Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
+This product is _**open source**_!
+
+Please review the LICENSE.md file for license information.
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
