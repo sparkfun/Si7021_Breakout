@@ -59,11 +59,13 @@
   if(x == 1)
   {
     Serial.println("Si7021 Found");
+    return true;
     //Serial.println(ID_Temp_Hum, HEX);
   }
   else if(x == 2)
   {
     Serial.println("HTU21D Found");
+    return true;
     //Serial.println(ID_Temp_Hum, HEX);
   }
   else
