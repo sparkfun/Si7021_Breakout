@@ -187,7 +187,7 @@ uint16_t Weather::makeMeasurment(uint8_t command)
 
 	uint16_t nBytes = 3;
 	// if we are only reading old temperature, read olny msb and lsb
-	if (command == 0xE0) nBytes = 2;
+	if (command == TEMP_PREV) nBytes = 2;
 
 	Wire.beginTransmission(ADDRESS);
 	Wire.write(command);
