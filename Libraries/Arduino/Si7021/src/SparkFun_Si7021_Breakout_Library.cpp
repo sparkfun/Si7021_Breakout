@@ -195,7 +195,7 @@ uint16_t Weather::makeMeasurment(uint8_t command)
 	// When not using clock stretching (*_NOHOLD commands) delay here
 	// is needed to wait for the measurement.
 	// According to datasheet the max. conversion time is ~22ms
-	 delay(100);
+	 delay(23);
 	
 	Wire.requestFrom(ADDRESS,nBytes);
 	if(Wire.available() != nBytes)
